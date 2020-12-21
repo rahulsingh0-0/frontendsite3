@@ -1,0 +1,330 @@
+
+body{
+   background: whitesmoke;
+}
+
+.headerlogo img{
+    height: 50px;
+    width: auto;
+    position: absolute;
+    top: 10px;
+}
+
+.header{
+   background-color: whitesmoke;
+   
+   height: 70px;
+   width: 100%;
+   }
+   .btn1 p{
+       position: absolute;
+       top: 30px;
+       left: 220px;
+       font-size: 14px;
+       font-family:  sans-serif;
+   }
+   .btn2 p{
+       position: absolute;
+       top: 30px;
+       left: 350px;
+       font-size: 14px;
+       font-family:  sans-serif;
+   }
+   .btn3 p{
+       position: absolute;
+       top: 30px;
+       left: 430px;
+       font-size: 14px;
+       font-family:  sans-serif;
+   }
+   
+   .btn4 {
+       position: absolute;
+       top: 25px;
+       left: 550px;
+       font-size: 12px;
+       font-family:  sans-serif;
+       height: 10px;
+   }
+   .btn5 p{
+       
+           position: absolute;
+           top: 3px;
+           left: 150px;
+           font-size: 14px;
+           font-family:  sans-serif;
+           height: 10px;
+       } 
+   .icon i{
+       position: absolute;
+       top: 7px;
+       left: 200px;
+   }
+   .btn6{
+       position: absolute;
+       top: -1px;
+       right: -150px;
+   }
+   .col{
+       padding-right: 0px;
+   }
+   .maintext p{
+       font-size: 35px;
+       color: #0044F3;
+       font-family:  open sans-serif;
+       font-weight: lighter;
+       position: absolute;
+       top: 100px;
+       left: 500px;
+   
+    text-align: center;
+   }
+   .mainsec{
+       background-color: whitesmoke;
+       border: 1px solid #0044F3;
+   }
+   .mainbtn1{
+       background-color: lightgray;
+       position:absolute;
+       top: 200px;
+       left: 300px;
+       border-top-left-radius: 7px;
+       border-top-right-radius: 7px;
+       border: 3px solid #0044F3;
+      
+   
+   }
+   .mainimg{
+       background-image: url("./../images/9.svg");
+      opacity: 100%;
+       height: 580px;
+       width: 100%;
+       background-repeat: no-repeat;
+       border-bottom-left-radius: 7px;
+       border-bottom-right-radius: 7px;
+   }
+   .imgtext p{
+       font-size: 20px;
+       color: #0044F3;
+       font-family:open  sans-serif;
+       font-weight: bolder;
+       position: absolute;
+       top: 70px;
+       left: 260px;
+   
+   }
+   .mainbtn{
+       position: absolute;
+       top: 550px;
+       left:310px;
+       font-family: sans-serif;
+   }
+   .homes{
+       color: blue;
+       font-size: 25px;
+   }
+   
+   .home1{
+      top: 110px;
+         position: absolute;
+      left: 60px;
+   }
+   .home2{
+       top: 190px;
+          position: absolute;
+       left: 60px;
+    }
+    .home3{
+       top: 265px;
+          position: absolute;
+       left: 60px;
+    }
+    .home4{
+       top: 340px;
+          position: absolute;
+       left: 60px;
+    }
+    .home5{
+       top: 420px;
+          position: absolute;
+       left: 60px;
+    }
+    .home6{
+       top: 110px;
+          position: absolute;
+       left: 360px;
+    }
+    .home7{
+       top: 190px;
+          position: absolute;
+       left: 360px;
+    } .home8{
+       top: 265px;
+          position: absolute;
+       left: 360px;
+    } .home9{
+       top: 340px;
+          position: absolute;
+       left: 360px;
+    } .home10{
+       top: 420px;
+          position: absolute;
+       left: 360px;
+    }
+    .footer{
+       position: absolute;
+       top: 900px;
+       width:100%;
+       height: 230px;
+       background-color: whitesmoke;
+       border-top: 3px solid #0044F3;;
+       margin-top: 50px;
+    }
+    .footerimg img{
+       height: 50px;
+       width: auto;
+       position: absolute;
+       left: 120px;
+       top: 40px;
+    }
+    .subfoot1 p{
+       
+       font-size: 10px;
+       color:gray;
+       font-family:sans-serif;
+       position: absolute;
+       left: 120px;
+       top: 100px;
+    }
+    .subfoot2 p{
+       font-size: 20px;
+       color: #0D4A6F;
+       font-family:sans-serif;
+       position: absolute;
+       left: 60px;
+       top: 40px;
+    }
+    .sb p{
+       color: gray;
+       font-size: 13px;
+       position: absolute;
+       top: 90px;
+   
+    }
+    .subfoot3 p{
+      font-size: 20px;
+      color: #0D4A6F;
+      font-family:sans-serif;
+      position: absolute;
+      left: 60px;
+      top: 40px;
+    }
+    .sb2 p{
+      color: gray;
+      font-size: 13px;
+      position: absolute;
+      top: 90px;
+    }
+    .subfoot4 p{
+      font-size: 20px;
+      color: #0D4A6F;
+      font-family:sans-serif;
+      position: absolute;
+      left: 60px;
+      top: 40px;
+    }
+    .sb3 p{
+      color: gray;
+      font-size: 13px;
+      position: absolute;
+      top: 90px;
+    }
+    .sb4 p{
+      color: gray;
+      font-size: 13px;
+      position: absolute;
+      top: 130px;
+      left: 14px;
+    }
+    .lastline p{
+      color: gray;
+      font-size: 13px;  
+   position: absolute;
+   top: 220px;
+   left: 100px;
+    }
+    .sb4 i{
+       color: blue;
+    }
+    .fb i{
+      position: absolute;
+      top: 170px;
+      right:300px;
+      color: grey;
+    }
+    .tw i{
+      position: absolute;
+      top: 170px;
+      right: 270px;
+      color: grey;
+    }
+     .is i{
+      position: absolute;
+      top: 170px;
+      right: 240px;
+      color: grey;
+     }
+     .label1{
+        position:absolute ;
+        top: 115px;
+        left: 130px;
+     }
+     .label2{
+      position:absolute ;
+      top: 193px;
+      left: 130px;
+   }
+   .label3{
+      position:absolute ;
+      top: 271px;
+      left: 130px;
+   }
+   .label4{
+      position:absolute ;
+      top: 345px;
+      left: 130px;
+   }
+   .label5{
+      position:absolute ;
+      top: 423px;
+      left: 130px;
+   }
+   .label6{
+      position:absolute ;
+      top: 423px;
+      left: 430px;
+   }
+   .label7{
+      position:absolute ;
+      top: 345px;
+      left: 430px;
+   }
+   .label8{
+      position:absolute ;
+      top: 271px;
+      left: 430px;
+   }
+   .label9{
+      position:absolute ;
+      top: 193px;
+      left: 430px;
+   }
+   .label10{
+      position:absolute ;
+      top: 115px;
+      left: 430px;
+   }
+
+     
+     
+     
